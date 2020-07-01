@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 
 
 !pip install transformers
@@ -115,7 +115,4 @@ lr_clf.score(test_features, test_labels)
 
 
 
-"""So our model clearly does better than a dummy classifier. But how does it compare against the best models?
-
-"""
 
